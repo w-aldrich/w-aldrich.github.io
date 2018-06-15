@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# William Aldrich
+## Software Developer
 
-You can use the [editor on GitHub](https://github.com/w-aldrich/w-aldrich.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will graduate December of 2018 from the [Master of Software Development](https://msd.utah.edu/) program at the University of Utah. I have a bachelor's degree in Psychology and Criminology and my current expertise is in object oriented programming, specifically in Java and C++. I am passionate and interested in solving complex problems with the greatest amount of utility and optimization for the problem at hand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Languages
+- C++
+- Java
+- Python 
+- JavaScript
+- HTML/CSS
 
-### Markdown
+## Projects
+A showcase of projects that I have worked on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Highlighted Project
+[CheapFlights scraper](https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
+- This python script allows searching for cheap flights through Delta Airlines. Currently working on adding additional airlines through their api, or scraping their website.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/w-aldrich/w-aldrich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Personal Projects***
+- [Python](https://github.com/w-aldrich/PersonalPythonScripts)
+- [Java] (https://github.com/w-aldrich/PersonalJavaPrograms)
+- [C++] (https://github.com/w-aldrich/PersonalCPP)
+***School Projects***
