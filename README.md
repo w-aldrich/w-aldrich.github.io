@@ -15,9 +15,9 @@ A showcase of projects that I have worked on
 
 ***School Projects***
 - [Multi Threaded Chatroom Server with Android Application](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom)
-- [Multi Threaded Server to Client File Transfer utilizing SSL] (https://github.com/w-aldrich/schoolHighlights/tree/master/MySSL)
-- [Encrypted File System] (https://github.com/w-aldrich/schoolHighlights/tree/master/encryptedFilesystem)
-- [Cheap Flights Web Scraper] (https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
+- [Multi Threaded Server to Client File Transfer utilizing SSL](https://github.com/w-aldrich/schoolHighlights/tree/master/MySSL)
+- [Encrypted File System](https://github.com/w-aldrich/schoolHighlights/tree/master/encryptedFilesystem)
+- [Cheap Flights Web Scraper](https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
 
 ***Personal Projects***
 - [Python](https://github.com/w-aldrich/PersonalPythonScripts)
