@@ -13,12 +13,13 @@ I will graduate December of 2018 from the [Master of Software Development](https
 ## Projects
 A showcase of projects that I have worked on
 
-### Highlighted Project
-[CheapFlights scraper](https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
-- This python script allows searching for cheap flights through Delta Airlines. Currently working on adding additional airlines through their api, or scraping their website.
+***School Projects***
+- [Multi Threaded Chatroom Server with Android Application](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom)
+- [Multi Threaded Server to Client File Transfer utilizing SSL] (https://github.com/w-aldrich/schoolHighlights/tree/master/MySSL)
+- [Encrypted File System] (https://github.com/w-aldrich/schoolHighlights/tree/master/encryptedFilesystem)
+- [Cheap Flights Web Scraper] (https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
 
 ***Personal Projects***
 - [Python](https://github.com/w-aldrich/PersonalPythonScripts)
 - [Java](https://github.com/w-aldrich/PersonalJavaPrograms)
 - [C++](https://github.com/w-aldrich/PersonalCPP)
-***School Projects***
