@@ -15,9 +15,10 @@ I will graduate December of 2018 from the [Master of Software Development](https
 
 # Showcase Projects
 ___
-***School Projects***
+***[School Projects](https://github.com/w-aldrich/schoolHighlights)***
 - [Multi Threaded Chatroom Server with Android Application](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom)
   - Created a multithreaded web server that implements HTTP and Web socket protocols on top of TCP sockets. Utilizes JSON formatting for communication between server and both web client and Android client.
+    - [README](https://github.com/w-aldrich/schoolHighlights/blob/master/ChatRoom/README.md)
 - [Multi Threaded Server to Client File Transfer utilizing SSL](https://github.com/w-aldrich/schoolHighlights/tree/master/MySSL)
   - Implemented a SSL Handshake between client and server utilizing self signed certificates for authentication. Once a secure connection is established, Server sends an encrypted version of a specified file to the Client then closes the connection. Utilizes RSA encryption for the transfer of nonces and the encryption for the file.
 - [Encrypted File System](https://github.com/w-aldrich/schoolHighlights/tree/master/encryptedFilesystem)
