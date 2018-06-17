@@ -1,6 +1,7 @@
-This is a website to showcase both personal and school projects that I have worked on. 
+# About me
+___
+This is a website to showcase school projects as well as personal and that I have worked on. 
 
-## About me
 I will graduate December of 2018 from the [Master of Software Development](https://msd.utah.edu/) program at the University of Utah College of Engineering. My undergraduate degree is in Psychology and Criminology which gives me a unique perspective on how to engineer software projects. My current expertise is in object oriented programming, specifically in Java and C++ pertaining to networking and security. I am passionate and interested in solving complex problems with the greatest amount of utility and optimization for the problem at hand.
 
 ## Languages
@@ -13,6 +14,7 @@ I will graduate December of 2018 from the [Master of Software Development](https
 - SQL
 
 # Showcase Projects
+___
 ***School Projects***
 - [Multi Threaded Chatroom Server with Android Application](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom)
   - Created a multithreaded web server that implements HTTP and Web socket protocols on top of TCP sockets. Utilizes JSON formatting for communication between server and both web client and Android client.
@@ -24,3 +26,8 @@ I will graduate December of 2018 from the [Master of Software Development](https
 ***Personal Projects***
 - [Cheap Flights Web Scraper](https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
   - This web scraper utilized Selenium and BeautifulSoup to navigate web pages, submit form data, scrape the HTML and parse out the information to find the cheapest flights in a given date range.
+
+# Contact Me
+___
+Feel free to contact me if you have any questions!
+[LinkedIn](https://www.linkedin.com/in/william-aldrich/)
