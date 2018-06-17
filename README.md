@@ -21,8 +21,10 @@ ___
     - [README](https://github.com/w-aldrich/schoolHighlights/blob/master/ChatRoom/README.md)
 - [Multi Threaded Server to Client File Transfer utilizing SSL](https://github.com/w-aldrich/schoolHighlights/tree/master/MySSL)
   - Implemented a SSL Handshake between client and server utilizing self signed certificates for authentication. Once a secure connection is established, Server sends an encrypted version of a specified file to the Client then closes the connection. Utilizes RSA encryption for the transfer of nonces and the encryption for the file.
+    - [README](https://github.com/w-aldrich/schoolHighlights/blob/master/MySSL/README.md)
 - [Encrypted File System](https://github.com/w-aldrich/schoolHighlights/tree/master/encryptedFilesystem)
   - Utilized FUSE to write a pass through file system in user space. Encrypted files contain 16 bytes of a random salt along with the encrypted version of the file. When script is running allows for a directory of unencrypted information for user to look at.
+    - [README](https://github.com/w-aldrich/schoolHighlights/blob/master/encryptedFilesystem/README.md)
 
 ***Personal Projects***
 - [Cheap Flights Web Scraper](https://github.com/w-aldrich/PersonalPythonScripts/blob/master/cheapFlightsWebCrawler.py)
