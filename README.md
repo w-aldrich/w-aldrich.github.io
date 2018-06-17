@@ -1,5 +1,6 @@
 # About me
 ___
+![alt text](https://github.com/w-aldrich/w-aldrich.github.io/blob/master/_pages/profile_pic.jpg)
 This is a website to showcase school projects as well as personal projects that I have worked on.
 
 I will graduate December of 2018 from the [Master of Software Development](https://msd.utah.edu/) program at the University of Utah College of Engineering. My undergraduate degree is in Psychology and Criminology which gives me a unique perspective on how to engineer software projects. My current expertise is in object oriented programming, specifically in Java and C++ pertaining to networking and security. I am passionate and interested in solving complex problems with the greatest amount of utility and optimization for the problem at hand.
